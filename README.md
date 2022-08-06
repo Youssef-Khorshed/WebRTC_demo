@@ -17,3 +17,4 @@
 -> A STUN server will reach out and send various requests to the connected peers and get a public IP address if possible
 -> Turn: if the peers do not have available public IP addresses, they can instead send the whole communication stream to the TURN server which will hand that stream to the other peer again.
 ->  it consumes a lot of bandwidth and requires much more maintenance costs.
+![My Project](https://user-images.githubusercontent.com/66167521/183256849-13b142f3-3b7d-4b38-9abf-e597454b815f.gif)
