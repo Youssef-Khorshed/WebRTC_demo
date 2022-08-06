@@ -2,7 +2,7 @@
 
 -> standard for web real-time communication 
 -> allows open source real-time communication (video/audio) between apps and browsers
-
+-> depends on STUN/TURN & Signaling
 # What is signaling?
 
 -> Signaling is a process used in WebRTC to:
